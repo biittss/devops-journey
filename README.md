@@ -9,3 +9,9 @@ A hands-on learning repository for DevOps and SRE.
 - Bash scripting
 - Monitoring and observability
 - CI/CD fundamentals
+
+## Current Focus
+
+- Git branching
+- Pull Requests
+- Merge conflict resolution
