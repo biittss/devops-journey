@@ -15,4 +15,4 @@ A hands-on learning repository for DevOps and SRE.
 - Git branching
 - Pull Requests
 - Merge conflict resolution
-Environment: development
+Environment: staging
