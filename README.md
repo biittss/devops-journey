@@ -16,3 +16,4 @@ A hands-on learning repository for DevOps and SRE.
 - Pull Requests
 - Merge conflict resolution
 Environment: staging
+Project Status: stable
